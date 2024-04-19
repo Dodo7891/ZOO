@@ -1,0 +1,33 @@
+@font-face{
+	font-family: 'LuckiestGuy';
+	src: url('LuckiestGuy-Regular.ttf');
+}
+body{
+
+	background-image: url('nature.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.error {
+	background-color: red;
+	color: whitesmoke;
+	border-radius: 20px;
+	width: 10%;
+	padding: 5px;
+}
+
+nav{
+	font-family:'LuckiestGuy';
+	color: white;
+	border:;
+	border-radius:60px;
+	background-color: #B8AE17;
+	width: 50.469%;
+	height: 55.556%;
+	margin-left: 24.766%;
+	margin-top: 8.5%;
+	position: fixed;
+	text-align: center;
+}
